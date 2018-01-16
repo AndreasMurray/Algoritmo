@@ -1,2 +1,2 @@
-# Algoritmo
+# Alg
 Primeiros algoritmos // é isso hmm
